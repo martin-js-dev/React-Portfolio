@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import './components/Hero.css';
 @import './components/About.css';
+@import './components/Services.css';
+@import './components/Projects.css';
+@import './components/Testimonials.css';
+@import './components/Contact.css';
+@import './components/Footer.css';
 
 
 body{
